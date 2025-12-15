@@ -46,12 +46,30 @@ Key functionalities:
 
 ---
 
+
 ## 📁 Directory Structure
 
+File_Packer_Unpacker/
+│
+├── Main.java
+├── ClockThread.java
+├── MarvellousPacker.java
+├── MarvellousUnpacker.java
+├── Fileread.java
+├── Filereadbuffer.java
+├── Filewrite.java
+├── Filewritebuffer.java
+├── Fileinputmultiple.java
+├── Filewritemultiple.java
+├── filereader.java
+├── filewriter.java
+├── LoginFrame.java
+├── MainFrame.java
+├── PackFrame.java
+├── UnpackFrame.java
+│
+└── README.md
 
-
-
----
 
 ## 📌 How to Run
 
